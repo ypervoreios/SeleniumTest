@@ -6,4 +6,3 @@
 -You have to have Py Charm (or other IDE) with Selenium installed in order to work.
 
 -This is not exactly a test case just playing around and getting familiar with the tools.
-
